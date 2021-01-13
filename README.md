@@ -1,3 +1,6 @@
+## Result
+![alt text](result/result.png)
+
 ## Global Indications
 
 - Please write your code to run on the latest version of Chrome without any server. The code should be working by opening the `index.html` file directly on Chrome.
